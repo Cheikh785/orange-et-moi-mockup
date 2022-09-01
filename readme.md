@@ -2,7 +2,7 @@
 I tried to replicate the `Orange &amp; moi ` app mockup😂
 
 ## Result 
-![OM mockup](sm.svg)
+![OM mockup](orange&moi.png)
 
 ## Project Status 
       Complete 
