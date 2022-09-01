@@ -6,8 +6,7 @@ I tried to replicate the `Orange &amp; moi ` app mockup😂
 
 ## Obtained result 
       On Samsung Galaxy A51/71
-<img src="images/OM_mockup1.png" width="300">
-<img src="images/OM_mockup2.png" width="300">
+<img src="images/OM_mockup1.png" width="300"> <img src="images/OM_mockup2.png" width="300">
 
 
 
